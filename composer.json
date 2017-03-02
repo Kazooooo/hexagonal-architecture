@@ -1,11 +1,4 @@
 {
-    "name": "pc-046/hexagonal_architecture",
-    "authors": [
-        {
-            "name": "KazumasaToda",
-            "email": "toda@n-di.co.jp"
-        }
-    ],
     "autoload" : {
         "psr-4" : {
           "" : "src"
